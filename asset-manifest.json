@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RA_components_store_func/static/css/main.04bba629.chunk.css",
+    "main.js": "/RA_components_store_func/static/js/main.28ce101b.chunk.js",
+    "main.js.map": "/RA_components_store_func/static/js/main.28ce101b.chunk.js.map",
+    "runtime-main.js": "/RA_components_store_func/static/js/runtime-main.16a5bfb2.js",
+    "runtime-main.js.map": "/RA_components_store_func/static/js/runtime-main.16a5bfb2.js.map",
+    "static/js/2.3ba918e0.chunk.js": "/RA_components_store_func/static/js/2.3ba918e0.chunk.js",
+    "static/js/2.3ba918e0.chunk.js.map": "/RA_components_store_func/static/js/2.3ba918e0.chunk.js.map",
+    "index.html": "/RA_components_store_func/index.html",
+    "precache-manifest.ee5bf87c9befc43ba9bafa97a5d0f6bf.js": "/RA_components_store_func/precache-manifest.ee5bf87c9befc43ba9bafa97a5d0f6bf.js",
+    "service-worker.js": "/RA_components_store_func/service-worker.js",
+    "static/css/main.04bba629.chunk.css.map": "/RA_components_store_func/static/css/main.04bba629.chunk.css.map",
+    "static/js/2.3ba918e0.chunk.js.LICENSE.txt": "/RA_components_store_func/static/js/2.3ba918e0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/RA_components_store_func/static/media/item-blue.8bcbdffe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16a5bfb2.js",
+    "static/js/2.3ba918e0.chunk.js",
+    "static/css/main.04bba629.chunk.css",
+    "static/js/main.28ce101b.chunk.js"
+  ]
+}
